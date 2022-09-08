@@ -1,3 +1,3 @@
 # Python
-simple hangman game for multiple players (1st semester project)
+simple hangman game for multiple players (1st semester project)  |  
 TEAM PROJECT WITH : XEROCHEIMONA ELENI
